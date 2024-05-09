@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWV3b2t6Nml2NjV1cThyb2ltemxuOTYyZ2l3cTN3M3NjYWExYWpkbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jMbfmwkrcm82PRlYa9/giphy.gif" alt="Animated GIF" width=100% height=250px>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWV3b2t6Nml2NjV1cThyb2ltemxuOTYyZ2l3cTN3M3NjYWExYWpkbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jMbfmwkrcm82PRlYa9/giphy.gif" alt="Animated GIF" width=100% height=230px>
 
 <h1>Hi 👋</h1>
 
@@ -29,15 +29,14 @@ me.say_hi()
 - 📫 How to reach me: **anushreelgowda12@gmail.com**
   
 <!-- self end-->
-<br>
-
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200' />
 <!-- Connect with me-->
+
 ## 🫡 Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/anushree-l-46313023a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/darshan-r-m/" height="30" width="40" /></a>
 </p>
 <!-- Connect with me end-->
-<br>
 <!-- tools start-->
 
 ## 🔧 Technologies & Tools
@@ -59,18 +58,13 @@ me.say_hi()
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a></p>
 
 <!-- tools end-->
-<br>
-<div style="position: relative; top: -500%;">
-    <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200' />
-</div>
-
 <!-- github stats start-->
 
 ## 📈 my github stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anushreel&show_icons=true&locale=en&layout=compact" alt="anushreel" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anushreel&show_icons=true&locale=en" alt="anushreel" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anushreel&show_icons=true&locale=en" alt="anushreel" style="margin-top:10px;"/></p>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anushreel&" alt="anushreel" /></p>
