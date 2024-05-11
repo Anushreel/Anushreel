@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWV3b2t6Nml2NjV1cThyb2ltemxuOTYyZ2l3cTN3M3NjYWExYWpkbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jMbfmwkrcm82PRlYa9/giphy.gif" alt="Animated GIF" width=100% height=230px>
+<img src="https://github.com/Anushreel/Anushreel/blob/main/git.png" alt="banner" width=100% height=230px>
 
 <h1>Hi 👋</h1>
 
